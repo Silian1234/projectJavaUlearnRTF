@@ -17,4 +17,4 @@ TASK 2
 
 TASK 3!
 
-[image](https://user-images.githubusercontent.com/82874968/211625422-d5f33cb3-18df-4b79-934e-b0e8ebcb7d73.png)
+![image](https://user-images.githubusercontent.com/82874968/211625567-5a68727e-f09f-414a-b483-58acbef93e54.png)
